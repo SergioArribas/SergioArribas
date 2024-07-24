@@ -24,7 +24,7 @@ Además de la programación y la tecnología, me gustan los videojuegos, el futb
 ## Contacto ☎️
 
 - **Email:** arribastellezsergio@gmial.com
-- **LinkedIn:** https://www.linkedin.com/feed/
+- **LinkedIn:** https://www.linkedin.com/in/sergio-arribas-756247182?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGhgjnqITR06wIQ9SoLW%2FXQ%3D%3D
 
 
 ## ¿Quieres saber más?
