@@ -1,6 +1,6 @@
 # ¡Hola, soy Sergio Arribas! 👋
 
-## Sobre mí
+## Sobre mí 😎
 
 Soy estudiante de full stack en 4GeeksAcademy. Me interesa mucho el mundo de la tecnología y estoy comenzando mi camino en el aprendizaje de la programación.
 ## Objetivos 🏆
@@ -12,7 +12,7 @@ Estoy en la etapa inicial de mi carrera y tengo muchas ganas de aprender y crece
 - Colaborar con compañeros en proyectos de clase.
 - Participar en hackatones y comunidades de desarrolladores.
 
-## Educación
+## Educación 🎓
 
 - Actualmente cursando el Bootcamp de **4GeeksAcademy** 
 
@@ -24,9 +24,9 @@ Además de la programación y la tecnología, me gustan los videojuegos, el futb
 ## Contacto ☎️
 
 - **Email:** arribastellezsergio@gmial.com
-- **LinkedIn:** https://www.linkedin.com/in/sergio-arribas-756247182?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGhgjnqITR06wIQ9SoLW%2FXQ%3D%3D
+-  [**LinkedIn**](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3Bf%2Fg9SxAqRYSgHyj286qEgA%3D%3D)
 
 
-## ¿Quieres saber más?
+## ¿Quieres saber más? ❔
 
 Aunque estoy comenzando, estoy muy motivado para aprender y mejorar. ¡Estoy emocionado por lo que vendrá en mi camino en el mundo de la tecnología!
